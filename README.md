@@ -38,13 +38,20 @@ Tabela de conteúdos
 
 &nbsp;&nbsp;&nbsp;&nbsp;Este artigo descreve um sistema de gerenciamento para empresas de vendas de peças agrícolas onde é possível efetuar a venda de peças controlando seu estoque com entradas e saídas e uma ferramenta financeira responsável pelo gerenciamento de pagamentos. Abordando também o desenvolvimento do sistema em etapas contendo diagramas de caso de uso, diagrama de classes, modelagem de banco de dados, tecnologias utilizadas. principais telas do sistemas e as camada de segurança do sistema.
 
+### 3. Estas são as configurações de segurança do sistema 
+| Segurança | Descrição |
+| --- | --- |
+| Aplicação | A aplicação é baseada em segurança por nível de aplicação. Onde a aplicação é relacionada com o usuário. |
+| Criptografia | Tecnologia MD5 |
+| Cookies | Tempo de expiração é de 30 dias |
+
 ### 4. 🛠 Tecnologias Utilizadas 
 - [Mysql](https://www.mysql.com/) - Banco de Dados
 - [PHP](https://www.php.net/) -  Linguagem de Programação
 - [ScriptCase](https://www.scriptcase.com.br/) -  Framework
 
  ### 5. Interface do sistema
-&nbsp;&nbsp;&nbsp;&nbsp;Nesse tópico serão mostradas as principais telas do sistemas seguindo de suas funcionalidades.
+&nbsp;&nbsp;&nbsp;&nbsp;Nesse tópico serão mostradas as telas do sistemas seguindo de suas funcionalidades.
  
  #### 5.1. Login
 &nbsp;&nbsp;&nbsp;&nbsp;Inicialmente o sistema inicia na tela de “login” **figura 4** onde o funcionário irá entrar com seus dados de autenticação.
