@@ -17,7 +17,7 @@ Tabela de conteúdos
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
    * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias utilizadas](#tecnologias)
 <!--te-->
 
 ### Pré-requisitos
