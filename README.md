@@ -38,12 +38,11 @@ Tabela de conteúdos
 
 &nbsp;&nbsp;&nbsp;&nbsp;Este artigo descreve um sistema de gerenciamento para empresas de vendas de peças agrícolas onde é possível efetuar a venda de peças controlando seu estoque com entradas e saídas e uma ferramenta financeira responsável pelo gerenciamento de pagamentos. Abordando também o desenvolvimento do sistema em etapas contendo diagramas de caso de uso, diagrama de classes, modelagem de banco de dados, tecnologias utilizadas. principais telas do sistemas e as camada de segurança do sistema.
 
-### 4. 🛠 Tecnologias Utilizadas
-```bash 
+### 4. 🛠 Tecnologias Utilizadas 
 - [Mysql](https://www.mysql.com/) - Banco de Dados
 - [PHP](https://www.php.net/) -  Linguagem de Programação
 - [ScriptCase](https://www.scriptcase.com.br/) -  Framework
-```
+
  ### 5. Interface do sistema
 &nbsp;&nbsp;&nbsp;&nbsp;Nesse tópico serão mostradas as principais telas do sistemas seguindo de suas funcionalidades.
  
