@@ -20,5 +20,11 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
+### 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Mysql](https://www.mysql.com/)
+- [PHP](https://www.php.net/)
+- [ScriptCase](https://www.scriptcase.com.br/)
 
