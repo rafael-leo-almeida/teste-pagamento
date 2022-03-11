@@ -20,6 +20,7 @@ Tabela de conteúdos
    * [Tecnologias utilizadas](#tecnologias)
 <!--te-->
 
+<<<<<<< HEAD
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -56,6 +57,9 @@ $ Usuário:
 $ Senha:
 
 #Tecnologias 🛠
+=======
+### 🛠 Tecnologias
+>>>>>>> parent of e4a3e1c (Colocando pré requisitos do sistema.)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
