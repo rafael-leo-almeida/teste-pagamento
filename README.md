@@ -7,7 +7,7 @@
 Tabela de conteúdos
 =================
 ## Índice
-* [Introdução](https://github.com/rafaelferreira2312/teste-pagamento/README.md#Teste-pagamento ---sistema-de-teste-pagamento)
+* [Introdução](https://github.com/rafaelferreira2312/teste-pagamento#teste-pagamento---sistema-de-teste-de-pagamento)
 * [1. Diagrama E-R - Modelo de banco de dados](https://github.com/LeonardoPSouzaPortfolio/AgroEmpresarial-SistemaDeGerenciamento#1-diagrama-e-r---modelo-de-banco-de-dados)
 * [2. Diagrama de Classe](https://github.com/LeonardoPSouzaPortfolio/AgroEmpresarial-SistemaDeGerenciamento#2-diagrama-de-classe)
 * [3. Caso de uso](https://github.com/LeonardoPSouzaPortfolio/AgroEmpresarial-SistemaDeGerenciamento#3-caso-de-uso)
