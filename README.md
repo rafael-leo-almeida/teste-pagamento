@@ -56,7 +56,7 @@ Tabela de conteúdos
  #### 5.1. Login
 &nbsp;&nbsp;&nbsp;&nbsp;Inicialmente o sistema inicia na tela de “login” **figura 4** onde o funcionário irá entrar com seus dados de autenticação.
 
-<img src="https://uploaddeimagens.com.br/images/000/872/103/full/7.png?1490626274"
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/tela_login_sistema.png"
 alt="Tela de login" title="Clique para ampliar">
   <p align="center">
     <b>Figura 4 - Tela de login</b>
