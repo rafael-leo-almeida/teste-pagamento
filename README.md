@@ -55,7 +55,7 @@ $ www.teste-pagamento.vancouvertec.com.br
 $ Usuário:
 $ Senha:
 
-### 🛠 Tecnologias
+#Tecnologias 🛠
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
