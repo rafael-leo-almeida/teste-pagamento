@@ -14,7 +14,7 @@ Tabela de conteúdos
 * [4. Interface do sistema](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
   * [4.1. Login](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
   * [4.2 Novo usuário](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
-  * [3.3 Recuperar senha]()
+  * [3.3 Recuperar senha](https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/recupaera_senha.png)
   * [3.4 Cadastros de Cliente]()
   * [3.5 Manutenção]()
   * [3.6 Consultas]()
