@@ -16,7 +16,7 @@ Tabela de conteúdos
   * [4.2 Novo usuário](https://github.com/rafaelferreira2312/teste-pagamento#42-tela-de-novo-usu%C3%A1rio)
   * [4.3 Recuperar senha](https://github.com/rafaelferreira2312/teste-pagamento#43-tela-para-recuperar-a-senha)
   * [4.4 Tela principal do sistema](https://github.com/rafaelferreira2312/teste-pagamento#44-tela-principal-do-sistema)
-  * [4.5 Tela de meus recebimentos]()
+  * [4.5 Tela de meus recebimentos](https://github.com/rafaelferreira2312/teste-pagamento/blob/main/README.md#45-tela-de-meus-recebimentos)
   
   # Teste pagamento online - Sistema de teste de pagamento
 
