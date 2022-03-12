@@ -81,12 +81,12 @@ alt="Tela de login" title="Clique para ampliar">
   </p>
 </img>
 
-#### 4.2. Tela de novo usuário
-&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em recuperar senha na tela de login **figura 5** onde será enviado para o e-mail do usuário cadastrado.
+#### 4.3. Tela principal do sistema
+&nbsp;&nbsp;&nbsp;&nbsp;Para acessar a tela principal do sistema é preciso efeturar o login **figura 6** nesta tela você podera navegar em todas as abas do sistema.
 
-<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/recupaera_senha.png"
-alt="Tela para recuperar senha" title="Clique para ampliar">
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/tela_painel_inicial.png"
+alt="Tela principal do sistema" title="Clique para ampliar">
   <p align="center">
-    <b>Figura 6 - Recuperar senha</b>    
+    <b>Figura 6 - Tela principal do sistema</b>    
   </p>
 </img>
