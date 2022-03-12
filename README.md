@@ -33,6 +33,15 @@ Tabela de conteúdos
 
 &nbsp;&nbsp;&nbsp;&nbsp;Este é um sistema de pagamento online entre lojistas e usuários.
 
+### 1. Diagrama E-R - Modelo de banco de dados
+A **figura 1** representa graficamente as entidades e seus relacionamentos com as de mais entidades do banco de dados.
+
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/diagrama%20er%20do%20banco%20de%20dados.png" alt="Diagrama ER" title="Clique para ampliar">
+  <p align="center">
+    <b>Figura 1 - Diagrama ER</b>
+  </p>
+</img>
+
 ### 3. Estas são as configurações de segurança do sistema 
 | Segurança | Descrição |
 | --- | --- |
