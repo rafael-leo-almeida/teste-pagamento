@@ -1,0 +1,20 @@
+.css_tipo_cliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_cliente_grid_line {vertical-align: top;text-align: left;}
+.css_login_usuario_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_login_usuario_grid_line {vertical-align: top;text-align: left;}
+.css_cpf_cnpj_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_cnpj_grid_line {vertical-align: top;text-align: left;}
+.css_email_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_email_grid_line {vertical-align: top;text-align: left;}
+.css_senha_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_senha_grid_line {vertical-align: top;text-align: left;}
+.css_enviar_email_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_enviar_email_grid_line {vertical-align: top;text-align: left;}
+.css_valor_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_grid_line {vertical-align: top;text-align: right;}
+.css_status_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line {vertical-align: top;text-align: left;}
+.css_payload_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_payload_grid_line {vertical-align: top;text-align: left;}
+.css_id_transacao_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_transacao_grid_line {vertical-align: top;text-align: right;}
