@@ -55,5 +55,17 @@ Tabela de conteúdos
 alt="Tela de login" title="Clique para ampliar">
   <p align="center">
     <b>Figura 4 - Tela de login</b>
+    <b>Usuário: admin</b>
+    <b>Senha: admin</b>
+  </p>
+</img>
+
+#### 5.1. Tela de novo usuário
+&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em em novo usuário na tela de login **figura 5** onde o usuário irá entrar com seus dados.
+
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/novo_usuario.png"
+alt="Tela de login" title="Clique para ampliar">
+  <p align="center">
+    <b>Figura 5 - Novo usuário</b>    
   </p>
 </img>
