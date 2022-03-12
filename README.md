@@ -60,33 +60,43 @@ A **figura 1** representa graficamente as entidades e seus relacionamentos com a
 &nbsp;&nbsp;&nbsp;&nbsp;Nesse tópico serão mostradas as telas do sistemas seguindo de suas funcionalidades.
  
  #### 4.1. Login
-&nbsp;&nbsp;&nbsp;&nbsp;Inicialmente o sistema inicia na tela de “login” **figura 4** onde o funcionário irá entrar com seus dados de autenticação.
+&nbsp;&nbsp;&nbsp;&nbsp;Inicialmente o sistema inicia na tela de “login” **figura 2** onde o funcionário irá entrar com seus dados de autenticação.
 
 <img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/tela_login_sistema.png"
 alt="Tela de login" title="Clique para ampliar">
   <p align="center">
-    <b>Figura 4 - Tela de login</b>
+    <b>Figura 2 - Tela de login</b>
     <b>Usuário: admin</b>
     <b>Senha: admin</b>
   </p>
 </img>
 
 #### 4.2. Tela de novo usuário
-&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em novo usuário na tela de login **figura 5** onde o usuário irá entrar com seus dados.
+&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em novo usuário na tela de login **figura 3** onde o usuário irá entrar com seus dados.
 
 <img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/novo_usuario.png"
 alt="Tela de login" title="Clique para ampliar">
   <p align="center">
-    <b>Figura 5 - Recuperar senha</b>    
+    <b>Figura 3 - Recuperar senha</b>    
   </p>
 </img>
 
-#### 4.2. Tela de novo usuário
-&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em recuperar senha na tela de login **figura 5** onde será enviado para o e-mail do usuário cadastrado.
+#### 4.3. Tela para recuperar a senha
+&nbsp;&nbsp;&nbsp;&nbsp;Para o usuário recuperar a senha tem que acessar esta tela **figura 4** abaixo do da tela de login tem um link onde o usuário irar dar um click e será direcionado para colocar o login e será enviado para o e-mail de cadastro a senha.
 
 <img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/recupaera_senha.png"
-alt="Tela para recuperar senha" title="Clique para ampliar">
+alt="Tela principal do sistema" title="Clique para ampliar">
   <p align="center">
-    <b>Figura 6 - Recuperar senha</b>    
+    <b>Figura 4 - Tela principal do sistema</b>    
+  </p>
+</img>
+
+#### 4.4. Tela principal do sistema
+&nbsp;&nbsp;&nbsp;&nbsp;Para acessar a tela principal do sistema é preciso efeturar o login **figura 5** nesta tela você podera navegar em todas as abas do sistema.
+
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/tela_painel_inicial.png"
+alt="Tela principal do sistema" title="Clique para ampliar">
+  <p align="center">
+    <b>Figura 5 - Tela principal do sistema</b>    
   </p>
 </img>
