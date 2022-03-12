@@ -15,16 +15,10 @@ Tabela de conteúdos
   * [4.1. Login](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
   * [4.2 Novo usuário](https://github.com/rafaelferreira2312/teste-pagamento#42-tela-de-novo-usu%C3%A1rio)
   * [4.3 Recuperar senha](https://github.com/rafaelferreira2312/teste-pagamento#43-tela-para-recuperar-a-senha)
-  * [3.4 Tela principal do sistema](https://github.com/rafaelferreira2312/teste-pagamento#44-tela-principal-do-sistema)
-  * [3.5 Manutenção]()
-  * [3.6 Consultas]()
-  * [3.7 Relatórios]()  
-  * [3.8 Controle de Acesso]()
-* [6. Segurança do Sistema]()
+  * [4.4 Tela principal do sistema](https://github.com/rafaelferreira2312/teste-pagamento#44-tela-principal-do-sistema)
+  * [4.5 Tela de meus recebimentos]()
   
- 
-
-# Teste pagamento online - Sistema de teste de pagamento
+  # Teste pagamento online - Sistema de teste de pagamento
 
 | Segurança | Descrição |
 | --- | --- |
@@ -105,5 +99,15 @@ alt="Tela principal do sistema" title="Clique para ampliar">
 alt="Tela de transferência" title="Clique para ampliar">
   <p align="center">
     <b>Figura 6 - Tela de transferência</b>    
+  </p>
+</img>
+
+#### 4.5. Tela de meus recebimentos
+&nbsp;&nbsp;&nbsp;&nbsp;Nesta tela o usuário poderá conferir todas transferências feitas tanto o usuário como o lojista. **figura 7** nesta tela você gerar relatórios em pdf, word e excel.
+
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/tela_meus_recebimentos.png"
+alt="Tela de meus recebimentos" title="Clique para ampliar">
+  <p align="center">
+    <b>Figura 7 - Tela de meus recebimentos</b>    
   </p>
 </img>
