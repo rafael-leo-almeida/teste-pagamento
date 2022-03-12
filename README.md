@@ -27,9 +27,13 @@ Tabela de conteúdos
   * [6.2.2. Preenchimento obrigatório]()
  
 
-# Teste pagamento - Sistema de teste de pagamento
+# Teste pagamento online - Sistema de teste de pagamento
 
-&nbsp;&nbsp;&nbsp;&nbsp;Este é um sistema de pagamento online entre lojistas e usuários.
+| Segurança | Descrição |
+| --- | --- |
+| Site | http://teste-pagamento.vancouvertec.com.br |
+| Usuário | admin |
+| Senha | admin |
 
 ### 1. Diagrama E-R - Modelo de banco de dados
 A **figura 1** representa graficamente as entidades e seus relacionamentos com as de mais entidades do banco de dados.
