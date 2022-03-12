@@ -7,14 +7,14 @@
 Tabela de conteúdos
 =================
 ## Índice
-* [Introdução](https://github.com/rafaelferreira2312/teste-pagamento#teste-pagamento---sistema-de-teste-de-pagamento)
-* [1. Diagrama E-R - Modelo de banco de dados](https://github.com/rafaelferreira2312/teste-pagamento#teste-pagamento---sistema-de-teste-de-pagamento)
-* [2. Configurações de segurança do sistema](https://github.com/rafaelferreira2312/teste-pagamento#3-estas-s%C3%A3o-as-configura%C3%A7%C3%B5es-de-seguran%C3%A7a-do-sistema)
-* [3. Tecnologias Utilizadas](https://github.com/rafaelferreira2312/teste-pagamento#4--tecnologias-utilizadas)
-* [4. Interface do sistema](https://github.com/rafaelferreira2312/teste-pagamento#5-interface-do-sistema)
-  * [3.1. Login](https://github.com/rafaelferreira2312/teste-pagamento#51-login)
-  * [3.2 Menu Principal]()
-  * [3.3 Menus]()
+* [Introdução](https://github.com/rafaelferreira2312/teste-pagamento#teste-pagamento-online---sistema-de-teste-de-pagamento)
+* [1. Diagrama E-R - Modelo de banco de dados](https://github.com/rafaelferreira2312/teste-pagamento#1-diagrama-e-r---modelo-de-banco-de-dados)
+* [2. Configurações de segurança do sistema](https://github.com/rafaelferreira2312/teste-pagamento#1-diagrama-e-r---modelo-de-banco-de-dados)
+* [3. Tecnologias Utilizadas](https://github.com/rafaelferreira2312/teste-pagamento#1-diagrama-e-r---modelo-de-banco-de-dados)
+* [4. Interface do sistema](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
+  * [4.1. Login](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
+  * [4.2 Novo usuário](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
+  * [3.3 Recuperar senha]()
   * [3.4 Cadastros de Cliente]()
   * [3.5 Manutenção]()
   * [3.6 Consultas]()
@@ -72,11 +72,21 @@ alt="Tela de login" title="Clique para ampliar">
 </img>
 
 #### 4.2. Tela de novo usuário
-&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em em novo usuário na tela de login **figura 5** onde o usuário irá entrar com seus dados.
+&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em novo usuário na tela de login **figura 5** onde o usuário irá entrar com seus dados.
 
 <img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/novo_usuario.png"
 alt="Tela de login" title="Clique para ampliar">
   <p align="center">
-    <b>Figura 5 - Novo usuário</b>    
+    <b>Figura 5 - Recuperar senha</b>    
+  </p>
+</img>
+
+#### 4.2. Tela de novo usuário
+&nbsp;&nbsp;&nbsp;&nbsp;Para criar um usuário novo de um click em recuperar senha na tela de login **figura 5** onde será enviado para o e-mail do usuário cadastrado.
+
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/recupaera_senha.png"
+alt="Tela para recuperar senha" title="Clique para ampliar">
+  <p align="center">
+    <b>Figura 6 - Recuperar senha</b>    
   </p>
 </img>
