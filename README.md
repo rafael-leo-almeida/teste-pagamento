@@ -14,17 +14,14 @@ Tabela de conteúdos
 * [4. Interface do sistema](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
   * [4.1. Login](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
   * [4.2 Novo usuário](https://github.com/rafaelferreira2312/teste-pagamento#41-login)
-  * [3.3 Recuperar senha](https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/recupaera_senha.png)
-  * [3.4 Cadastros de Cliente]()
+  * [4.3 Recuperar senha](https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/recupaera_senha.png)
+  * [3.4 Tela principal do sistema]()
   * [3.5 Manutenção]()
   * [3.6 Consultas]()
   * [3.7 Relatórios]()  
   * [3.8 Controle de Acesso]()
 * [6. Segurança do Sistema]()
-  * [6.1. SQL Injection]()
-  * [6.2. Erros de preenchimentos de formulários]()
-  * [6.2.1. Valor inválido]()
-  * [6.2.2. Preenchimento obrigatório]()
+  
  
 
 # Teste pagamento online - Sistema de teste de pagamento
@@ -77,7 +74,7 @@ alt="Tela de login" title="Clique para ampliar">
 <img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/novo_usuario.png"
 alt="Tela de login" title="Clique para ampliar">
   <p align="center">
-    <b>Figura 3 - Recuperar senha</b>    
+    <b>Figura 3 - Novo usuário</b>    
   </p>
 </img>
 
@@ -87,7 +84,7 @@ alt="Tela de login" title="Clique para ampliar">
 <img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/recupaera_senha.png"
 alt="Tela principal do sistema" title="Clique para ampliar">
   <p align="center">
-    <b>Figura 4 - Tela principal do sistema</b>    
+    <b>Figura 4 - Tela para recuperar senha</b>    
   </p>
 </img>
 
@@ -98,5 +95,15 @@ alt="Tela principal do sistema" title="Clique para ampliar">
 alt="Tela principal do sistema" title="Clique para ampliar">
   <p align="center">
     <b>Figura 5 - Tela principal do sistema</b>    
+  </p>
+</img>
+
+#### 4.5. Tela de transferência
+&nbsp;&nbsp;&nbsp;&nbsp;Nesta tela o usuário poderá fazer transferências para um outro usuário ou lojista, porém, lojistas só recebem as transações. **figura 6** nesta tela, o sistema busca os clientes e lojistas cadastrados, verifica a senha de transferência, verifica si o usuário logado tem saldo para trasnferir, consulta uma api de status, consulta uma api de envio de e-mail e traz a resposta do payload.
+
+<img src="https://github.com/rafaelferreira2312/teste-pagamento/blob/main/imagens/tela_incluir_transacao.png"
+alt="Tela de transferência" title="Clique para ampliar">
+  <p align="center">
+    <b>Figura 6 - Tela de transferência</b>    
   </p>
 </img>
